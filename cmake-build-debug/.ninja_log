@@ -1,0 +1,15 @@
+# ninja log v6
+12	859	1744233911647889289	CMakeFiles/quant-dev.dir/main.cpp.o	1a6d2dd644ea5621
+13	3551	1744233911648370495	CMakeFiles/quant-dev.dir/src/TradeCalendarSchedule.cpp.o	b4b267e6f1b18880
+13	3568	1744233911648225037	CMakeFiles/quant-dev.dir/src/QuantLibToolKit.cpp.o	793b22c2555a116d
+13	399	1744233911648508536	CMakeFiles/quant-dev.dir/src/TradeRepository.cpp.o	966f138044793387
+13	1136	1744233911648783076	CMakeFiles/quant-dev.dir/utils/Logger.cpp.o	9ca1baefec55a532
+13	1168	1744233911648650327	CMakeFiles/quant-dev.dir/utils/ConfigLoader.cpp.o	87afa086bf2dbcf6
+665	764	1744219292567213547	quant-dev	7170a154bcfcdd01
+13	298	1744234059148128463	CMakeFiles/quant-dev.dir/src/TradeRepository.cpp.o	f9803004976e0400
+14	430	1744234059148403545	CMakeFiles/quant-dev.dir/utils/Logger.cpp.o	1452a30a94010e6
+13	776	1744234059147465424	CMakeFiles/quant-dev.dir/main.cpp.o	78696db54f2cd5da
+14	850	1744234059148266504	CMakeFiles/quant-dev.dir/utils/ConfigLoader.cpp.o	3fc87c51ea564195
+13	3436	1744234059147994589	CMakeFiles/quant-dev.dir/src/TradeCalendarSchedule.cpp.o	2407a4e8aa14f134
+13	3473	1744234059147834422	CMakeFiles/quant-dev.dir/src/QuantLibToolKit.cpp.o	bdb9d6278898e2f5
+3473	3517	1744234062608069955	quant-dev	8b1fa8ac032c8d91
